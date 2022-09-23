@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 7293e055abeda734dba0813b188e05b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7127815578132815392
+    second: Kitchen_0
+  - first:
+      213: 8364323908783094963
+    second: Kitchen_1
+  - first:
+      213: -7648311925588613280
+    second: Kitchen_2
+  - first:
+      213: -6297450191466595269
+    second: Kitchen_3
+  - first:
+      213: -5866344049869485233
+    second: Kitchen_4
+  - first:
+      213: -1614752645389093910
+    second: Kitchen_5
+  - first:
+      213: 3183004675743741091
+    second: Kitchen_6
+  - first:
+      213: 7588002489457206445
+    second: Kitchen_7
+  - first:
+      213: -2571781653845825017
+    second: Kitchen_8
+  - first:
+      213: 2167404491456921552
+    second: Kitchen_9
+  - first:
+      213: -5909330743409775700
+    second: Kitchen_10
+  - first:
+      213: -6959822513767143234
+    second: Kitchen_11
+  - first:
+      213: 2889364706965225508
+    second: Kitchen_12
+  - first:
+      213: 3386672046588208980
+    second: Kitchen_13
+  - first:
+      213: 5406766753805630471
+    second: Kitchen_14
+  - first:
+      213: -8447350865592365063
+    second: Kitchen_15
+  - first:
+      213: 7177965305631944044
+    second: Kitchen_16
+  - first:
+      213: -1036827797845603877
+    second: Kitchen_17
+  - first:
+      213: -8394186129426892831
+    second: Kitchen_18
+  - first:
+      213: 2728960112107062808
+    second: Kitchen_19
+  - first:
+      213: -1337395613277857147
+    second: Kitchen_20
+  - first:
+      213: -1050892148191833128
+    second: Kitchen_21
+  - first:
+      213: 5813034175831123167
+    second: Kitchen_22
+  - first:
+      213: -6040953679489613678
+    second: Kitchen_23
+  - first:
+      213: 2191906906606566291
+    second: Kitchen_24
+  - first:
+      213: 2525178248167722089
+    second: Kitchen_25
+  - first:
+      213: 5914956820490839492
+    second: Kitchen_26
+  - first:
+      213: -6949294256604560011
+    second: Kitchen_27
+  - first:
+      213: -8705661756134077871
+    second: Kitchen_28
+  - first:
+      213: -584838335091427393
+    second: Kitchen_29
+  - first:
+      213: 6041314751100756872
+    second: Kitchen_30
+  - first:
+      213: -1943007918572041939
+    second: Kitchen_31
+  - first:
+      213: -4032861954828085049
+    second: Kitchen_32
+  - first:
+      213: -3678172337290858003
+    second: Kitchen_33
+  - first:
+      213: 178169345616909970
+    second: Kitchen_34
+  - first:
+      213: 6822490320482522846
+    second: Kitchen_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 77
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kitchen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 1536
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e5e81f79e41d90800000000000000
+      internalID: -7127815578132815392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_1
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 1536
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb259674c041470800000000000000
+      internalID: 8364323908783094963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06728ef73dcbbd590800000000000000
+      internalID: -7648311925588613280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 1536
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cfaea8a66fa98a0800000000000000
+      internalID: -6297450191466595269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
